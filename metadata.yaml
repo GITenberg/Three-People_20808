@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4482
     wikipedia: http://en.wikipedia.org/wiki/Isabella_Macdonald_Alden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20808#Three-People
 gutenberg_issued: '2007-03-13'
 gutenberg_type: Text
 identifiers:
